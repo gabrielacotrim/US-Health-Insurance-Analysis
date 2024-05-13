@@ -1,7 +1,5 @@
 This project was made using Anaconda(jupyter notebook and a conda kernel)
 
-The HTML file is the final result
-
 The ipynb file is a jupyter notebook with the actual code.
 
 The database used in this project was taken from kaggle: https://www.kaggle.com/datasets/hhs/health-insurance-marketplace/data
